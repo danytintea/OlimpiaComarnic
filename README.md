@@ -19,6 +19,8 @@ _Proiect realizat in cadrul [**Facultatii de Inginerie Electrica si Stiinta Calc
 
 ![image](https://user-images.githubusercontent.com/73530803/174594126-dcb5bc45-1fde-485e-a63a-075ebbdb4db0.png)
 ![image](https://user-images.githubusercontent.com/73530803/174594201-f8cb0382-a2b3-4504-b383-db455e403659.png)
-![image](https://user-images.githubusercontent.com/73530803/174595128-39579fc8-d617-4f9d-9328-276efe41318c.png)
 ![image](https://user-images.githubusercontent.com/73530803/174595144-4481ec2b-0ee5-44d6-938c-81e68e810eea.png)
 ![image](https://user-images.githubusercontent.com/73530803/174595160-d1181709-8a35-43c5-b7f0-3bddea8a3c3c.png)
+![image](https://user-images.githubusercontent.com/73530803/174595571-d57e9990-b4e2-410b-935e-d3c8c85cc636.png)
+![image](https://user-images.githubusercontent.com/73530803/174595597-6f1674d1-efb4-4705-9fca-ba7067e9efe0.png)
+
